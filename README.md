@@ -4,6 +4,12 @@ Clone da página inicial do Disney+, desenvolvido de forma independente após es
 
 ---
 
+## 🖼️ Preview
+
+![Preview do projeto](./assets/preview.png)
+
+---
+
 ## 🖥️ Sobre o projeto
 
 Recriação da landing page do Disney+ Brasil, feita por conta própria com base no conhecimento adquirido em projetos anteriores. Foco em fidelidade visual, tipografia customizada e detalhes de UI.
